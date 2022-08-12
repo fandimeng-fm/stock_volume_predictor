@@ -1,0 +1,1 @@
+DATE,total_vol_m,baseline,overnight_model,robustARMA_model,combined_model,combinedVIX_model,overnightVIX_model,robustVIX_model,baseline_error,overnight_error,robustARMA_error,combined_error,combinedVIX_error,overnightVIX_error,robustVIX_error
