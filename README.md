@@ -2,16 +2,13 @@
 
 ### Description:
 This is the codebase for the "Trading Volume Prediction of Instruments with Observable and Hidden Structure" project for 
-the University of Chicago's Winter 2022 and Spring 2022 Data Science Clinic, in collaboration with DRW Holdings. The objective of this project was to build an online model for forecasting instrument volume smiles.
+the University of Chicago's Winter 2022 and Spring 2022 Data Science Clinic. The objective of this project was to build an online model for forecasting instrument volume smiles.
 
 ##### This codebase consists of:
  - Implementation of selected models outlined in "Quintet Volume Projection" (Markov et al., 2019) as a baseline comparison model
  - Scripts for improved intraday volume and daily total volume prediction models 
  - Analysis, comparisons and visualizations of model performance referenced in the accompanying paper
  - Analysis of consistent intraday "jumps" in volume found at regular 5 minute intervals
- 
-
-For a full documentations of our models and analysis, please reference our paper: https://www.overleaf.com/8345373514pddxzqzhnrpw
 
 ### Dependencies:
 This program was written in Python 3.7. The full list of library requirements can be found in `requirements.txt` . 
@@ -48,5 +45,5 @@ For posterity, all other notebooks utilized in our research over the course of t
 Team Members: Yanhao Dong, Ben Goldman, Xiaotian Li, Fandi Meng, Sushan Zhao
 
 We wish to thank DRW Holdings and the University of Chicago’s Data Science Institute for providing us the opportunity to 
-work on this project. We extend our sincerest gratitude to our mentors from DRW and the University of Chicago: 
+work on this project. We extend our sincerest gratitude to our mentors from the University of Chicago: 
 Phillip Lynch, David Uminsky, Dan Nicolae, Cole Bryant and Nick Gondek for their guidance and support. 
